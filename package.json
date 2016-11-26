@@ -1,0 +1,44 @@
+{
+    "author": "juste.zilinskaite@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "sports",
+    "pebble": {
+        "displayName": "Sports",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/bcyd4gocL.png",
+                    "name": "IMAGE_LOGO",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/full_down.png",
+                    "name": "IMAGE_BT_ICON2",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/up_full.png",
+                    "name": "IMAGE_BT_ICON",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt"
+        ],
+        "uuid": "5a4084ed-c895-4c9b-ad7d-b62dfb2b1f03",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
